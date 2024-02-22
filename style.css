@@ -1,0 +1,13 @@
+.title {
+    font-family:Times 'Times New Roman', Times, serif;
+  }
+
+.intro {
+    font-family: Times 'Times New Roman', Times, serif;
+    background-color: red;
+  }
+
+  .header {
+    background-color :red;
+    background-image:linear-gradient(180deg, red, maroon);
+  }
